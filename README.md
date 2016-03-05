@@ -15,3 +15,4 @@ python3
 
 如图：  
 ![image](https://github.com/JavaProgrammerLB/FirstCommit/blob/master/django.jpg)
+![image](https://github.com/JavaProgrammerLB/FirstCommit/blob/master/ninja.jpg)
