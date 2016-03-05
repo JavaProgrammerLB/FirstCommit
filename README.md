@@ -11,7 +11,8 @@ python3
 项目使用方法：  
 （1）下载run.py到本地  
 （2）python run.py   
-（3）依次输入：项目所有人、项目名称、想查看的分支名称、该分支总提交数
+（3）依次输入：项目所有人、项目名称、想查看的分支名称、该分支总提交数  
+这样就能找到这个项目第一次提交所在页面的url
 
 如图：  
 ![image](https://github.com/JavaProgrammerLB/FirstCommit/blob/master/django.jpg)
