@@ -13,5 +13,5 @@ python3
 （2）python run.py   
 （3）依次输入：项目所有人、项目名称、想查看的分支名称、该分支总提交数
 
-如图：
-![image](https://github.com/JavaProgrammerLB/FirstCommitr/raw/master/diango.jpg)
+如图：  
+![image](https://github.com/JavaProgrammerLB/FirstCommit/blob/master/django.jpg)
